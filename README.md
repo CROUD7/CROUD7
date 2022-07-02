@@ -3,7 +3,8 @@
 
 持っている垢・作成中のサイト   
 ---
-Scratch垢(凍結中):[@sosukeyamakawa](https://scratch.mit.edu/users/sosukeyamakawa/)  
+Scratch(凍結中):[@sosukeyamakawa](https://scratch.mit.edu/users/sosukeyamakawa/)  
+mocri:[@4649_mocri](https://mocri.jp/invite/?from_user=4649_mokuri&r=40b4ff12dd)
 作成中のサイト:[sosukeyamakawa's site](https://croud7.github.io/site/)  
 ↑のサイト何故か h1 と、 h5 のサイズが同じになる()()cssが原因なんだろうな... Hello Worldって書いてますが気にしないでください()  
 
