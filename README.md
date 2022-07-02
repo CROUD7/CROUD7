@@ -1,7 +1,7 @@
 # I am CROUD7 :D
 私はCROUD7です(CLOUD7にしようとしましたが、作れませんでした...)  
 
-僕の持っている垢・作成中のサイト   
+持っている垢・作成中のサイト   
 ---
 Scratch垢(凍結中):[@sosukeyamakawa](https://scratch.mit.edu/users/sosukeyamakawa/)  
 作成中のサイト:[sosukeyamakawa's site](https://croud7.github.io/site/)  
