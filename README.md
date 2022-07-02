@@ -11,3 +11,4 @@ Scratch垢(凍結中):[@sosukeyamakawa](https://scratch.mit.edu/users/sosukeyama
 ---
 僕に何か連絡したいことがあれば、[sosukeyamakawa's site](https://croud7.github.io/site/)にアクセスして、  
 チャットのマークが出たら、それを押して送信してください()PCを開いているときは通知がくるので多分すぐに気付きます()
+![Alt text](chaticon.png)
