@@ -17,4 +17,4 @@ Hello Worldって書いてますが気にしないでください()
 
 このプロフィールの閲覧数
 ---
-![Visitor Count](https://profile-counter.glitch.me/CROUD7/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=croud7&label=Profile%20views&color=0e75b6&style=flat" alt="croud7" /> </p>
