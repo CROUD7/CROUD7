@@ -14,4 +14,7 @@ Hello Worldって書いてますが気にしないでください()
 僕に何か連絡したいことがあれば、[sosukeyamakawa's site](https://croud7.github.io/site/)にアクセスして、  
 チャットのマークが出たら、それを押して送信してください()PCを開いているときは通知がくるので多分すぐに気付きます()  
 ![Alt text](chaticon.png)  
-![Counter](http://www.rays-counter.com/d510_f6_022/62cabdedda2ab/)
+
+このプロフィールの閲覧数
+---
+![Visitor Count](https://profile-counter.glitch.me/CROUD7/count.svg)
