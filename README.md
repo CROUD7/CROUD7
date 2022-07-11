@@ -15,6 +15,6 @@ Hello Worldって書いてますが気にしないでください()
 チャットのマークが出たら、それを押して送信してください()PCを開いているときは通知がくるので多分すぐに気付きます()  
 ![Alt text](chaticon.png)  
 
-このプロフィールの閲覧数
+このプロフィールの閲覧数　(キリ番報告は[雑談箱](https://github.com/CROUD7/free-space/issues/1)へお願いします。)
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=croud7&label=Profile%20views&color=0e75b6&style=flat" alt="croud7" /> </p>
