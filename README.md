@@ -17,4 +17,8 @@ Hello Worldって書いてますが気にしないでください()
 
 このプロフィールの閲覧数　(キリ番報告は[雑談箱](https://github.com/CROUD7/free-space/issues/1)へお願いします。)
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=croud7&label=Profile%20views&color=0e75b6&style=flat" alt="croud7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=croud7&label=Profile%20views&color=0e75b6&style=flat" alt="croud7" /> </p>  
+
+最後にアクセスした時間 　(調整中)
+---
+2000/00/00 00:00:00
