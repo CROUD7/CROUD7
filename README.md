@@ -19,6 +19,3 @@ Hello Worldって書いてますが気にしないでください()
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=croud7&label=Profile%20views&color=0e75b6&style=flat" alt="croud7" /> </p>  
 
-最後にアクセスした時間 　(調整中)
----
-2000/00/00 00:00:00
